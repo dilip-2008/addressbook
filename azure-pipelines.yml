@@ -31,4 +31,3 @@ steps:
     repository: 'testrepo'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
-    buildContext: '**/*.war'
