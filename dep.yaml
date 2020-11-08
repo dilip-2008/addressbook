@@ -19,4 +19,4 @@ spec:
       containers:
       - name: addressbook
         # Run this image
-        image: dilipsun/addressbook31956e5a5768d43cfefabdb3a55321ee9e5bbf68
+        image: dilipsun/testrepo:60
